@@ -65,17 +65,6 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
-  },
-  {
-   "id": "93670c96-5b26-5890-10d6-5a503ad33e81",
-   "title": "New Section 7",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/New-Section-7-9367.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
   }
  ],
  "theme": "light",
