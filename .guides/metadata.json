@@ -1,0 +1,84 @@
+{
+ "sections": [
+  {
+   "id": "27f20b4c-a8c6-b985-bdd7-012a441f5a4c",
+   "title": "Binary addition and binary shifts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-addition-and-binary-shifts-27f2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "50abce68-3e75-0f09-b04d-92f0ac064ce5",
+   "title": "Binary addition",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-addition-50ab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b11a6683-db5c-8a10-a8fa-f111b913864d",
+   "title": "Overflow errors",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Overflow-errors-b11a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9fad755c-93dc-1580-bdfd-b9de413bc56b",
+   "title": "Binary shifts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-shifts-9fad.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7c660a05-b03e-6ffa-b9f6-488127dddf01",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-7c66.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "eeee6f03-ea00-7fe0-afe9-27a7f4fd70cb",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-eeee.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "93670c96-5b26-5890-10d6-5a503ad33e81",
+   "title": "New Section 7",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-7-9367.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

@@ -1,0 +1,87 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-341515501",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**State the results of the following binary shift.**",
+   "points": "1",
+   "showValues": false,
+   "text": "00010101 multiplied by 4 = <<<01010100>>>",
+   "tokens": {
+    "blank": [
+     "01010100"
+    ],
+    "text": [
+     "00010101 multiplied by 4 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3770558902",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**State the results of the following binary shift.**",
+   "points": "1",
+   "showValues": false,
+   "text": "00011011 multiplied by 8 = <<<11011000>>>",
+   "tokens": {
+    "blank": [
+     "11011000"
+    ],
+    "text": [
+     "00011011 multiplied by 8 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-549938488",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "**State the results of the following binary shift.**",
+   "points": "1",
+   "showValues": false,
+   "text": "10010010 divided by 2 = <<<01001001>>>",
+   "tokens": {
+    "blank": [
+     "01001001"
+    ],
+    "text": [
+     "10010010 divided by 2 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2724204147",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "**State the results of the following binary shift.**",
+   "points": "1",
+   "showValues": false,
+   "text": "11101000 divided by 4 = <<<00111010>>>\n",
+   "tokens": {
+    "blank": [
+     "00111010"
+    ],
+    "text": [
+     "11101000 divided by 4 = ",
+     0,
+     "\n"
+    ]
+   }
+  }
+ }
+]
