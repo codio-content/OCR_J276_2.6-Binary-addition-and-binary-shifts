@@ -6,7 +6,7 @@ What we have done is moved the number to the left by one place value and replace
 
 ![](.guides/img/gridc.png)
 
-If we multiplied it by 100 (102) then we move it two places to the left.
+If we multiplied it by 100 $(10^2)$ then we move it two places to the left.
 
 When dividing we move the digits to the right.
 e.g. 90 / 10 = 9
